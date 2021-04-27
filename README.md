@@ -1,5 +1,6 @@
 # ML2021FALL
 syllabus:
+```
 1 - Regression
 2 - Classification
 3 - CNN
@@ -15,7 +16,9 @@ syllabus:
 13 - Compression
 14 - Life-long Learning
 15 - Meta Learning
+```
 HW:
+```
 第1週	2/26	Course Introduction
 第2週	3/05	HW1: COVID-19
 第3週	3/12	HW2: Phoneme Recognition
@@ -33,3 +36,4 @@ HW:
 第15週	6/04	HW12: RL
 第16週	6/11	HW13:Network Compression, HW14: Life-long Learning
 第17週	6/18	HW15: Meta Learning
+```
